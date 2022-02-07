@@ -1,8 +1,8 @@
 package org.WalkerCC_CompSci;
 
 public class Point {
-    private double x = 0;
-    private double y = 0;
+    private double x = 1;
+    private double y = 2;
 
     public Point(double x, double y){
 
