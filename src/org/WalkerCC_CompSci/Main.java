@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         //Create a point
-        Point a = new Point(3,5);
+        Point a = new Point(2,5);
         //Create another point
         Point b = new Point(-2, 7);
 
